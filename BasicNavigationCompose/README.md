@@ -19,4 +19,9 @@
 - No special cares with environment are needed to run this app. Install latest version of [Android Studio](https://developer.android.com/studio) and build the app, all the libraries used in the project comes automatically.
 - It was tested in API 29 and API 33.
 
+### Prints
+
+Here are some prints of the app.
+
+<img src="prints/print_home_screen.png" width="350"/> <img src="prints/print_second_screen.png" width="350"/>
 #
